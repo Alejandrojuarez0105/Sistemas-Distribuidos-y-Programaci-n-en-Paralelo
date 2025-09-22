@@ -1,1 +1,1 @@
-# Sistemas-Distribuidos-y-Programaci-n-en-Paralelo
+# Sistemas Distribuidos y Programación en Paralelo
